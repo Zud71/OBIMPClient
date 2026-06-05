@@ -1,4 +1,4 @@
-# OBIMP Client
+# OBIMP Client (Bimoid)
 
 Консольный клиент протокола **OBIMP** (Open Buddy Impulse Messaging Protocol) на C# .NET 8.
 
